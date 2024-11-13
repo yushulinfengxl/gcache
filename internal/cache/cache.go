@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"github.com/yushulinfengxl/ydb/internal/datastore"
-	"github.com/yushulinfengxl/ydb/utility/singleton"
+	"github.com/yushulinfengxl/gcache/internal/datastore"
+	"github.com/yushulinfengxl/gcache/utility/singleton"
 )
 
 type Cache struct {

@@ -1,3 +1,3 @@
-module github.com/yushulinfengxl/ydb
+module github.com/yushulinfengxl/gcache
 
 go 1.20
