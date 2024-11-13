@@ -1,3 +1,3 @@
 ## GCache Docs
 
-### go-cache 1.0.0
+### go-cache 1.0.3
